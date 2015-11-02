@@ -1,0 +1,9 @@
+{
+  "name": "etdsolutions/marked",
+  "description": "Shim repository for Marked",
+  "homepage": "https://github.com/chjj/marked",
+  "license": "MIT",
+  "author": {
+  	"name": "Christopher Jeffrey"
+  }
+}
